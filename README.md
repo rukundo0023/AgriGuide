@@ -1,8 +1,8 @@
 AgriGuide Mobile application
 Project contributors:
-Rukundo Nshimiyimana : Debugger and researcher
-Guled Hassan Warsame : Coder
-Alhassan Alimamy Dumbuya : Researcher
+Rukundo Nshimiyimana : Debugger and researcher ,
+Guled Hassan Warsame : Coder ,
+Alhassan Alimamy Dumbuya : Researcher.
 
 AgriGuide is a comprehensive mobile application designed to provide agricultural information, resources, and tools to farmers and agricultural enthusiasts. This app aims to help users manage their farms more efficiently by providing easy access to crop information, weather updates, farming techniques, and market prices.
 
